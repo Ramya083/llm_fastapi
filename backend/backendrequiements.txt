@@ -1,4 +1,6 @@
 fastapi
 uvicorn
 transformers
-torch
+numpy<2
+torch==2.2.2
+psycopg[binary]
